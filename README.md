@@ -12,6 +12,9 @@ It includes a brief description of the purpose of each class, expected methods/f
 Contains instructions about to use the script as well as a discussion of challenges I faced and how I overcame these challenges. 
 
 3. Medical_Jeopardy.py :
+
 To run the game, open the command line by typing "cmd" in your windows search bar.
+
 Type "python" to start up python in CLI.
+
 Type "import <py file directory and name>" and the game will start running.
