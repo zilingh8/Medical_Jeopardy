@@ -17,4 +17,4 @@ To run the game, open the command line by typing "cmd" in your windows search ba
 
 Type "python" to start up python in CLI.
 
-Type "import "py file directory and name" and the game will start running.
+Type "import _py file directory and name_ " and the game will start running.
